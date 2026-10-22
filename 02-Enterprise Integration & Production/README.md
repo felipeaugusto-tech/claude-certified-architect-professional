@@ -1,0 +1,30 @@
+# Module 2 — Enterprise Integration & Production
+
+- [ ] **01 · Module Introduction**
+  - [ ] [Orientation](01-module-introduction/orientation.md)
+- [ ] **02 · Evals**
+  - [ ] [Evals as acceptance criteria](02-evals/evals-as-acceptance-criteria.md)
+  - [ ] [Watch Out: wrong eval suite](02-evals/watch-out-wrong-eval-suite.md)
+  - [ ] [Sort the eval types](02-evals/sort-the-eval-types.md)
+- [ ] **03 · POC to Prod**
+  - [ ] [From POC to production](03-poc-to-prod/from-poc-to-production.md)
+  - [ ] [Watch Out: demo cost](03-poc-to-prod/watch-out-demo-cost.md)
+  - [ ] [Cost & reliability calculator](03-poc-to-prod/cost-and-reliability-calculator.md)
+- [ ] **04 · Sizing**
+  - [ ] [Sizing and feasibility](04-sizing/sizing-and-feasibility.md)
+  - [ ] [Watch Out: scoping call](04-sizing/watch-out-scoping-call.md)
+  - [ ] [Justify the feasibility call](04-sizing/justify-the-feasibility-call.md)
+- [ ] **05 · Integration**
+  - [ ] [Enterprise integration patterns](05-integration/enterprise-integration-patterns.md)
+  - [ ] [Watch Out: PII in prompt](05-integration/watch-out-pii-in-prompt.md)
+  - [ ] [Critique the integration diagram](05-integration/critique-the-integration-diagram.md)
+- [ ] **06 · A/B & Obs**
+  - [ ] [A/B testing and observability](06-ab-and-obs/ab-testing-and-observability.md)
+  - [ ] [Watch Out: 50-session winner](06-ab-and-obs/watch-out-50-session-winner.md)
+  - [ ] [Experiment-design plane](06-ab-and-obs/experiment-design-plane.md)
+- [ ] [07 · Exercise: Eval Framework](07-exercise-eval-framework.md)
+- [ ] **08 · Wrap-up**
+  - [ ] [Production readiness builder](08-wrap-up/production-readiness-builder.md)
+  - [ ] [Glossary](08-wrap-up/glossary.md)
+  - [ ] [Recap: five takeaways](08-wrap-up/recap-five-takeaways.md)
+  - [ ] [Certification](08-wrap-up/certification.md)
