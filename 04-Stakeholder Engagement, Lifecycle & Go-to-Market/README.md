@@ -1,0 +1,30 @@
+# Module 4 — Stakeholder Engagement, Lifecycle & Go-to-Market
+
+- [ ] **01 · Module Introduction**
+  - [ ] [Orientation](01-module-introduction/orientation.md)
+- [ ] **02 · Discovery**
+  - [ ] [A discovery call is structured elicitation](02-discovery/a-discovery-call-is-structured-elicitation.md)
+  - [ ] [Watch Out: turned into a design session](02-discovery/watch-out-turned-into-a-design-session.md)
+  - [ ] [Find the undocumented assumption](02-discovery/find-the-undocumented-assumption.md)
+- [ ] **03 · Tradeoffs**
+  - [ ] [Present a tradeoff so stakeholders can act](03-tradeoffs/present-a-tradeoff-so-stakeholders-can-act.md)
+  - [ ] [Watch Out: approval was not an informed choice](03-tradeoffs/watch-out-approval-was-not-an-informed-choice.md)
+  - [ ] [Recommend the option](03-tradeoffs/recommend-the-option.md)
+- [ ] **04 · Feedback Loops**
+  - [ ] [Feedback loop and SLA](04-feedback-loops/feedback-loop-and-sla.md)
+  - [ ] [Watch Out: observability replaced the feedback loop](04-feedback-loops/watch-out-observability-replaced-the-feedback-loop.md)
+  - [ ] [Triage the production signals](04-feedback-loops/triage-the-production-signals.md)
+- [ ] **05 · Documentation**
+  - [ ] [Documentation for handoff and audit](05-documentation/documentation-for-handoff-and-audit.md)
+  - [ ] [Watch Out: rationale lived in the Architect's head](05-documentation/watch-out-rationale-lived-in-the-architects-head.md)
+  - [ ] [Place the documentation artifacts](05-documentation/place-the-documentation-artifacts.md)
+- [ ] **06 · Entry Point**
+  - [ ] [Entry point selection and the outcome document](06-entry-point/entry-point-selection-and-the-outcome-document.md)
+  - [ ] [Watch Out: outcome document measured the wrong thing](06-entry-point/watch-out-outcome-document-measured-the-wrong-thing.md)
+  - [ ] [Pick the platform and required outcome fields](06-entry-point/pick-the-platform-and-required-outcome-fields.md)
+- [ ] **07 · Wrap-up**
+  - [ ] [Cumulative: architect a regulated multi-platform deployment](07-wrap-up/cumulative-architect-a-regulated-multi-platform-deployment.md)
+  - [ ] [Recap: five things that hold across everything here](07-wrap-up/recap-five-things-that-hold-across-everything-here.md)
+  - [ ] [Glossary](07-wrap-up/glossary.md)
+  - [ ] [Module Complete](07-wrap-up/module-complete.md)
+- [ ] [08 · Module Complete](08-module-complete.md)
