@@ -1,0 +1,32 @@
+# Module 3 — Responsible AI, Safety, and Risk for Architects
+
+- [ ] **01 · Module Introduction**
+  - [ ] [Orientation](01-module-introduction/orientation.md)
+- [ ] **02 · Alignment**
+  - [ ] [Model training vs your layer](02-alignment/model-training-vs-your-layer.md)
+  - [ ] [Watch Out: trained refusals](02-alignment/watch-out-trained-refusals.md)
+  - [ ] [Sort the responsibility](02-alignment/sort-the-responsibility.md)
+- [ ] **03 · Guardrails**
+  - [ ] [Risks and failure modes](03-guardrails/risks-and-failure-modes.md)
+  - [ ] [Assess the risks](03-guardrails/assess-the-risks.md)
+  - [ ] [Placing screening and authorization](03-guardrails/placing-screening-and-authorization.md)
+  - [ ] [Watch Out: single output filter](03-guardrails/watch-out-single-output-filter.md)
+  - [ ] [Place the controls](03-guardrails/place-the-controls.md)
+- [ ] **04 · Fairness**
+  - [ ] [Where unequal outcomes enter](04-fairness/where-unequal-outcomes-enter.md)
+  - [ ] [Watch Out: fairness as vendor's problem](04-fairness/watch-out-fairness-as-vendors-problem.md)
+  - [ ] [Critique the decision-logging design](04-fairness/critique-the-decision-logging-design.md)
+- [ ] **05 · Review routing**
+  - [ ] [Routing by stakes](05-review-routing/routing-by-stakes.md)
+  - [ ] [Watch Out: routing everything](05-review-routing/watch-out-routing-everything.md)
+  - [ ] [Build the review-routing rule](05-review-routing/build-the-review-routing-rule.md)
+- [ ] **06 · Compliance**
+  - [ ] [Compliance obligation to control](06-compliance/compliance-obligation-to-control.md)
+  - [ ] [Watch Out: entry point selection](06-compliance/watch-out-entry-point-selection.md)
+  - [ ] [Justify the control choice](06-compliance/justify-the-control-choice.md)
+- [ ] **07 · Wrap-up**
+  - [ ] [Cumulative: responsible deployment](07-wrap-up/cumulative-responsible-deployment.md)
+  - [ ] [Glossary](07-wrap-up/glossary.md)
+  - [ ] [Recap](07-wrap-up/recap.md)
+  - [ ] [Module Complete](07-wrap-up/module-complete.md)
+- [ ] [08 · Module Complete](08-module-complete.md)
