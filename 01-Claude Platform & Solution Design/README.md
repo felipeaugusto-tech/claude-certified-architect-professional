@@ -1,0 +1,48 @@
+# Module 1 — Claude Platform & Solution Design
+
+- [ ] **01 · Module Introduction**
+  - [ ] [Orientation](01-module-introduction/orientation.md)
+- [ ] **02 · How Claude Behaves**
+  - [ ] [How Claude Behaves](02-how-claude-behaves/how-claude-behaves.md)
+- [ ] **03 · Platform Map & Primitives**
+  - [ ] [The Platform Map](03-platform-map-and-primitives/the-platform-map.md)
+  - [ ] [Checkpoint: Platform Layers](03-platform-map-and-primitives/checkpoint-platform-layers.md)
+  - [ ] [The AI Primitives](03-platform-map-and-primitives/the-ai-primitives.md)
+  - [ ] [Checkpoint: Match Primitives](03-platform-map-and-primitives/checkpoint-match-primitives.md)
+- [ ] **04 · Decomposition**
+  - [ ] [Decomposition](04-decomposition/decomposition.md)
+  - [ ] [Watch Out: Deterministic Drift](04-decomposition/watch-out-deterministic-drift.md)
+  - [ ] [Checkpoint: Sort Capabilities](04-decomposition/checkpoint-sort-capabilities.md)
+  - [ ] [Checkpoint: Decompose Request](04-decomposition/checkpoint-decompose-request.md)
+- [ ] **05 · Pattern Selection**
+  - [ ] [Pattern Selection](05-pattern-selection/pattern-selection.md)
+  - [ ] [Watch Out: Flexibility vs Non-determinism](05-pattern-selection/watch-out-flexibility-vs-non-determinism.md)
+  - [ ] [Multi-Agent Systems](05-pattern-selection/multi-agent-systems.md)
+  - [ ] [Watch Out: Fan-out Drop](05-pattern-selection/watch-out-fan-out-drop.md)
+  - [ ] [Checkpoint: Critique Orchestration](05-pattern-selection/checkpoint-critique-orchestration.md)
+- [ ] **06 · Reference Architectures**
+  - [ ] [Reference Architectures](06-reference-architectures/reference-architectures.md)
+  - [ ] [Watch Out: Retrieval vs Tool Call](06-reference-architectures/watch-out-retrieval-vs-tool-call.md)
+  - [ ] [Checkpoint: Critique the Diagram](06-reference-architectures/checkpoint-critique-the-diagram.md)
+- [ ] **07 · RAG Pipeline Design**
+  - [ ] [RAG Pipeline Design](07-rag-pipeline-design/rag-pipeline-design.md)
+  - [ ] [Exercise: Design the RAG Pipeline](07-rag-pipeline-design/exercise-design-the-rag-pipeline.md)
+- [ ] **08 · Model & Context Strategy**
+  - [ ] [Model & Context Strategy](08-model-and-context-strategy/model-and-context-strategy.md)
+  - [ ] [Watch Out: Opus Everywhere](08-model-and-context-strategy/watch-out-opus-everywhere.md)
+  - [ ] [Checkpoint: Cost & Latency Calculator](08-model-and-context-strategy/checkpoint-cost-and-latency-calculator.md)
+- [ ] **09 · Prompting as Architecture**
+  - [ ] [System Prompts & Guardrails](09-prompting-as-architecture/system-prompts-and-guardrails.md)
+  - [ ] [Prompt Techniques](09-prompting-as-architecture/prompt-techniques.md)
+  - [ ] [Prompt Reuse & Skills](09-prompting-as-architecture/prompt-reuse-and-skills.md)
+  - [ ] [Exercise: Reusable Prompt Asset](09-prompting-as-architecture/exercise-reusable-prompt-asset.md)
+- [ ] **10 · Entry Points & Governance**
+  - [ ] [Entry Point & Route Selection](10-entry-points-and-governance/entry-point-and-route-selection.md)
+  - [ ] [Watch Out: Claude Code Misused](10-entry-points-and-governance/watch-out-claude-code-misused.md)
+  - [ ] [Checkpoint: Pick the Entry Point](10-entry-points-and-governance/checkpoint-pick-the-entry-point.md)
+- [ ] **11 · Assembly & Recap**
+  - [ ] [Cumulative Assembly](11-assembly-and-recap/cumulative-assembly.md)
+  - [ ] [Glossary](11-assembly-and-recap/glossary.md)
+  - [ ] [Recap: Key Takeaways](11-assembly-and-recap/recap-key-takeaways.md)
+- [ ] **12 · Module Complete**
+  - [ ] [Module Complete](12-module-complete/module-complete.md)
